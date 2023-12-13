@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
-  *f_sub- sustration
+  *f_sub:  subtracts the top element of the stack from the second top element of the stack
   *@head: stack head
   *@counter: line_number
   *Return: no return
